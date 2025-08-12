@@ -1,0 +1,12 @@
+Tarefa
+Importar bibliotecas e carregar o arquivo usando pandas.
+
+Verificar se há valores nulos e tratá-los.
+
+Exibir as estatísticas descritivas das vendas.
+
+Criar um gráfico de linha mostrando vendas ao longo dos meses.
+
+Criar um modelo de regressão linear (scikit-learn) para prever as vendas com base no investimento em marketing.
+
+Mostrar o valor previsto de vendas para um investimento de marketing de R$10.000.
