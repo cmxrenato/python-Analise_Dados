@@ -18,9 +18,9 @@ print(df['Marketing'].isnull().sum())
 
 # Preencher nulos da coluna 'Vendas' com a média
 #df['Vendas'] = df['Vendas'].fillna(df['Vendas'].mean())
-df['Vendas'] = df['Vendas'].fillna(5000)
+df['Vendas'] = df['Vendas'].fillna(15000)
 
-df['Marketing'] = df['Marketing'].fillna(5000)
+df['Marketing'] = df['Marketing'].fillna(15000)
 
 #df.to_csv('dados_vendas3_atualizado.csv', index=False)
 #df = pd.read_csv('dados_vendas3_atualizado.csv')
